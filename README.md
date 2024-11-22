@@ -6,9 +6,7 @@
 
 <br>
 
-[Download my Project](https://drive.google.com/file/d/1xfK02phXaq_j5dImedE2WvvPUQnBYTkh/view?usp=sharing)
-<br>
-|https://drive.google.com/uc?export=download&id=1yNL9gfv-DlD3cEW9o2GJvtJ9Bzbm37R7|
+[Download Dataset](https://drive.google.com/uc?export=download&id=1yNL9gfv-DlD3cEW9o2GJvtJ9Bzbm37R7) - [Download my Project](https://drive.google.com/file/d/1xfK02phXaq_j5dImedE2WvvPUQnBYTkh/view?usp=sharing) 
 <br>
 
 |1 - Importing Data|
